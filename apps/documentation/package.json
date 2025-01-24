@@ -14,15 +14,15 @@
     "@astrojs/react": "^3.6.2",
     "@astrojs/starlight": "^0.26.1",
     "@astrojs/starlight-tailwind": "^2.0.3",
-    "@astrojs/tailwind": "^5.1.0",
+    "@astrojs/tailwind": "^5.1.5",
     "@types/react": "^18.3.4",
     "@types/react-dom": "^18.3.0",
-    "astro": "^4.10.2",
+    "astro": "^5.1.8",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "sharp": "^0.32.5",
     "swagger-ui-react": "^5.17.14",
-    "tailwindcss": "^3.4.10",
+    "tailwindcss": "^4.0.0",
     "typescript": "^5.5.4",
     "zod": "^3.23.8"
   }
